@@ -1,4 +1,4 @@
-# ♻️ Edge AI Prototype: Waste Classifier (TFLite)
+# ♻ Edge AI Prototype: Waste Classifier (TFLite)
 
 This project trains a lightweight image classifier using TensorFlow and MobileNetV2, fine-tuned on the Garbage Classification dataset from Kaggle. The model is then converted to TensorFlow Lite for edge deployment.
 
